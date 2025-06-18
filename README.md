@@ -1,1 +1,2 @@
-# jokenpo.c
+Sistema do jogo 'Pedra, Papel ou Tesoura' importado para a linguagem C, onde permite que o usuário execute resultados de regras, saída do programa e inicialização de partida, no qual permite escolher entre 3 opções presentes neste jogo, resultando em uma vitória, derrota ou até mesmo um empate com a máquina (computador).
+As regras já estão presentes dentro do programa, onde pode ser escolhida e lida a partir da opção 2!
